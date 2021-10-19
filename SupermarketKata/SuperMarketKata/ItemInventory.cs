@@ -8,8 +8,8 @@ using System.Data;
 /* Class Name: ItemInveotry
  * Description: Using DataTable to store the Items, Price, and Special Offer Quantity and Price.
  * Patrick James Lee Gonzaga
- * Version 1.1
- * XDATE
+ * Version 1.6
+ * XDATEDEDED
  */
 namespace SuperMarketKata
 {
